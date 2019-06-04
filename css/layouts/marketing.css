@@ -416,7 +416,7 @@ a.pure-button-primary {
      
     }
 }
-@media only screen and (max-device-width: 1200px) {
+@media only screen and (max-device-width: 100%) {
 /* .menu { width:600px; } */
 }
 
