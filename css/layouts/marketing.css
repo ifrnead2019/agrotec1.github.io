@@ -289,7 +289,7 @@ a.pure-button-primary {
     position: absolute;
     top: 87%;
     width: 100%;
-    min-height: 12%;
+    min-height: 100%;
     z-index: 2;
     background: white;
 
@@ -297,7 +297,7 @@ a.pure-button-primary {
 
 /* We want to give the content area some more padding */
 .content {
-    padding: 3em 0em 3em;
+    padding: 5em 0em 3em;
     background: white;
 
 }
