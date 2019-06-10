@@ -80,6 +80,10 @@ h2 {
     padding: 0.5em 2em;
     border-radius: 5px;
 }
+#tela{
+    max-width:100%;
+	height:auto;
+}
 
 .img-postagem{
     float: right;
