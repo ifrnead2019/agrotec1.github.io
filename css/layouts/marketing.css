@@ -81,8 +81,9 @@ h2 {
     border-radius: 5px;
 }
 #tela{
-     max-width:100% !important;
+     max-width:700px;
      height:auto;
+    
 }
 
 .img-postagem{
