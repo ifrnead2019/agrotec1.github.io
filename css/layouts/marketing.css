@@ -84,6 +84,11 @@ h2 {
 #tela{
      max-width:600;
      height:1400;
+      background-image: url("img/floral4.jpg");
+
+    background-repeat: no-repeat;
+
+    background-position: center;
     
 }
 
