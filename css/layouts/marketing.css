@@ -245,6 +245,11 @@ a.pure-button-primary {
     left: 0;
     position: fixed;
     background-repeat: no-repeat;
+       background-image: url("img/floral4.jpg");
+
+    background-repeat: no-repeat;
+
+    background-position: center;
 }
 
 .splash {
@@ -256,12 +261,7 @@ a.pure-button-primary {
     top: 40px; left: 0; bottom: 0; right: 0;
     text-align: justify-all;
     text-transform: uppercase;
-     background-image: url("img/floral4.jpg");
-
-    background-repeat: no-repeat;
-
-    background-position: center;
-   
+     
 }
   
      
