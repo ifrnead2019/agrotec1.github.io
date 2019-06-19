@@ -261,7 +261,9 @@ a.pure-button-primary {
 
     
 }
-  
+ .img-fluid{
+     max-width: 100%; 
+     height: auto; 
      
 .header {
             height: 90%;
