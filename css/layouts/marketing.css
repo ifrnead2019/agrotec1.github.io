@@ -235,7 +235,7 @@ a.pure-button-primary {
 
 #splash-container {
     
-    z-index: 2;
+    z-index: 1;
     overflow: hidden;
     width: 100%;
      /*The following styles are required for the "scroll-over" effect */
