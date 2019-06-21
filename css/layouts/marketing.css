@@ -245,7 +245,7 @@ a.pure-button-primary {
     left: 0;
     position: fixed;
     background-repeat: no-repeat;
-    background-image: url(img/floral4.jpg);
+    background-image: url(img/floral4.jpg) center center fixed;
     background-size: 100% 100%;
 
 }
