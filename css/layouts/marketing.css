@@ -11,9 +11,7 @@ body {
     line-height: 1.7em;
     color: #7f8c8d;
     font-size: 12px;
-    background-image: url(img/floral.jpg);
-    background-size: 100% 100%;
-  
+      
 }
 
 h1,
@@ -247,6 +245,8 @@ a.pure-button-primary {
     left: 0;
     position: fixed;
     background-repeat: no-repeat;
+    background-image: url(img/floral4.jpg);
+    background-size: 100% 100%;
 
 }
 
