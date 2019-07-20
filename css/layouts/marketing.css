@@ -391,8 +391,9 @@ a.pure-button-primary {
     .splash-container {
         height:  60em;
         background-repeat: no-repeat;
-        background-image: url("../../img/floral4.jpg");
-        background-position: center;
+        background-image: url("img/floral4.jpg");
+        background-position: fixed;
+        
        
     }
 
