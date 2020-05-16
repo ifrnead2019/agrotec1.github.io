@@ -31,7 +31,7 @@
 	* https://www.php.net/manual/pt_BR/function.mail.php
 	*
 	*/
-	mail('aninhaagro@ufrn.edu.br', $assunto, $corpo, 'From: remetente@meusite.com');
+	mail('aninhaagro@ufrn.edu.br', $assunto, $corpo, 'From: aninhaagro@ufrn.edu.br');
 	
 	/*
 	*
